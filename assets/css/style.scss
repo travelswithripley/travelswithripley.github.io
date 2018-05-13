@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 body {
     background-color: WhiteSmoke;
-    color: black;
+    color: gray;
 }
 h1 {
     color: #4682B4;
@@ -12,12 +12,12 @@ h1 {
 }
 /* unvisited link */
 a:link {
-    color: black;
+    color: gray;
 }
 
 /* visited link */
 a:visited {
-    color: gray;
+    color: lightgray;
 }
 
 /* mouse over link */
